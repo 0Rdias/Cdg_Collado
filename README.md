@@ -1,5 +1,4 @@
 
-
 ### 1. **Impressão de uma mensagem inicial:**
    - O programa começa com uma mensagem básica de "Hello World!" que é exibida no console. Essa mensagem serve apenas para confirmar que o programa está funcionando corretamente.
 
