@@ -1,4 +1,4 @@
-Claro! Aqui está o tutorial explicado de forma simples, sem mostrar o código diretamente:
+
 
 ### 1. **Impressão de uma mensagem inicial:**
    - O programa começa com uma mensagem básica de "Hello World!" que é exibida no console. Essa mensagem serve apenas para confirmar que o programa está funcionando corretamente.
